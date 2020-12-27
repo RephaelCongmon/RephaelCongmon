@@ -6,6 +6,8 @@
 
 <img align="left" alt="Rephael Congmon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RephaelCongmon&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=algolia" />
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=RephaelCongmon.RephaelCongmon)
+
 
 <!--
 **RephaelCongmon/RephaelCongmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
