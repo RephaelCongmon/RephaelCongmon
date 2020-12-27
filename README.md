@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RephaelCongmon&layout=compact&theme=algolia)](https://github.com/RephaelCongmon)
 
 <img align="left" alt="Rephael Congmon's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RephaelCongmon&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=algolia" />
-
+<br />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=RephaelCongmon.RephaelCongmon)
 
