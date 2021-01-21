@@ -6,6 +6,8 @@
 
 ![RephaelCongmon's github stats](https://github-readme-stats.vercel.app/api?username=RephaelCongmon&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=algolia)
 
+[![RephaelCongmon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rephcongmon)](https://github.com/RephaelCongmon)
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=RephaelCongmon.RephaelCongmon)
 
 
